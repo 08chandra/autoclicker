@@ -1,2 +1,2 @@
 # autoclicker
-- works on windows only must hv the java jdk or something
+- compiled for windows, download Java JDK for it to run.
