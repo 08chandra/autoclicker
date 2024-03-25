@@ -1,2 +1,3 @@
 # autoclicker
-- compiled for windows, download Java JDK for it to run.
+- built for windows, download Java JDK for it to run.
+- auto clicker app.
